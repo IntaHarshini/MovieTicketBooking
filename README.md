@@ -11,13 +11,13 @@ Demonstrates 10 OS concepts: Multithreading, Mutex, Critical Section, Race Condi
 2. Go to your project folder  
    Example: `cd path/to/your/project_folder`
 3. Start the Server (run only once)
-   ```bash
+
    python3 server.py
 You will see: MOVIE TICKET BOOKING SERVER STARTED
 Keep this window open
-5. Open new terminal windows/tabs (these are different users)
-6. In each new window/tab, run the Client
-python3 client.py
+4. Open new terminal windows/tabs (these are different users)
+5. In each new window/tab, run the Client
+ python3 client.py
 
 Enter any name when asked
 Use these commands:
