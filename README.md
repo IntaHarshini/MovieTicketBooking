@@ -17,7 +17,8 @@ You will see: MOVIE TICKET BOOKING SERVER STARTED
 Keep this window open
 4. Open new terminal windows/tabs (these are different users)
 5. In each new window/tab, run the Client
-Bashpython3 client.py
+```bash
+python3 client.py
 
 Enter any name when asked
 Use these commands:
