@@ -1,4 +1,4 @@
-Markdown# Movie Ticket Booking System
+# Movie Ticket Booking System
 **By Harshini Inta - 2303114**
 
 A real-time, thread-safe movie ticket booking system using Python sockets and threading — just like BookMyShow!
